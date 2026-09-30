@@ -85,9 +85,9 @@ Supporting website colors may be used when needed for interaction and readabilit
 
 ## Typography
 
-- `Work Sans Ultra-Bold`: logo font for `LFK`
+- <a href="https://fonts.google.com/specimen/Work+Sans" target="_blank" rel="noopener noreferrer">Work Sans Ultra-Bold</a>: logo font for `LFK`; available free through Google Fonts
 - `Anton`: website display font for large headings and strong section titles
-- `Alex Brush`: script font for `Shibari` in the logo and branded decorative treatments
+- <a href="https://fonts.google.com/specimen/Alex+Brush" target="_blank" rel="noopener noreferrer">Alex Brush</a>: script font for `Shibari` in the logo and branded decorative treatments; available free through Google Fonts
 - `Inter`: primary body and interface font for paragraphs, navigation, buttons, forms, and general website content
 
 `Alex Brush` should remain an accent font and should not be used for body copy or long passages.
