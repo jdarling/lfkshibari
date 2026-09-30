@@ -27,7 +27,7 @@ All URLs, domain names, file paths, and technical identifiers should use lowerca
 
 ## Tagline
 
-Learn 🪢 Connect 🪢 Create 🪢
+Learn. Connect. Create.
 
 ## Mission Statement
 
@@ -60,6 +60,8 @@ Come curious, communicate openly, respect boundaries, and leave your ego at the 
 - Respectful
 - Risk-aware
 - Community-centered
+
+Use plain text rather than emoji in documentation and website copy.
 
 ## Main Purpose
 
