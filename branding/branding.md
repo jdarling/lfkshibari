@@ -25,24 +25,38 @@ Do not use `LFKshibari`, `LfkShibari`, `LFK SHIBARI`, or other capitalization va
 
 All URLs, domain names, file paths, and technical identifiers should use lowercase as a standard web convention.
 
+## Tagline
+
+Learn 🪢 Connect 🪢 Create 🪢
+
 ## Mission Statement
 
-To create a Lawrence-area rope community where people can learn, practice, connect, and grow around shibari, kinbaku, rope bondage, and rope-adjacent practice with a focus on education, consent, mutual respect, and responsible risk-aware practice.
+To create a local space in Lawrence and the surrounding area where people interested in Shibari can come together, learn from one another, practice, share ideas, and build their skills in a supportive community centered on safety, consent, inclusivity, creativity, and respect.
 
 ## Vision Statement
 
-To build a sustainable local rope community where people of different roles and experience levels can participate, learn, and connect while maintaining clear expectations around consent, privacy, accountability, and risk.
+To build a sustainable local rope community where newcomers and experienced practitioners can learn, teach, create, and grow together. Community over competition means exchanging knowledge, encouraging one another, and celebrating progress while maintaining clear expectations around consent, privacy, accountability, and risk.
 
 ## Community Position
 
-- LFKShibari is a Lawrence, Kansas rope community centered on education, consent, connection, and responsible practice.
-- LFKShibari welcomes different roles, experience levels, bodies, identities, and approaches to rope.
+- LFKShibari is a Lawrence, Kansas rope community centered on safety, consent, inclusivity, creativity, and respect.
+- LFKShibari welcomes different roles, experience levels, bodies, identities, relationship structures, styles, and approaches to Shibari.
 - Community trust is built through behavior, accountability, and continued respect for consent. Vetting or admission is not a guarantee that any individual is safe.
+
+## Community Values
+
+- **Safety first.** Encourage responsible rope practice, informed consent, communication, risk awareness, and looking out for one another. Safety is a shared responsibility; rope is not risk-free.
+- **Inclusive by intention.** Everyone deserves to feel welcome and respected, whether they are brand new to rope or have years of experience.
+- **Creativity encouraged.** Shibari is both a skill and an art form. Welcome different styles, ideas, questions, and curiosity, with experimentation guided by consent and current skills.
+- **Community over competition.** Practice together, exchange knowledge, troubleshoot, encourage one another, and celebrate progress. Everyone contributes to keeping the space welcoming and supporting responsible practice.
+
+Come curious, communicate openly, respect boundaries, and leave your ego at the door.
 
 ## Brand Voice
 
 - Direct
 - Welcoming
+- Curious and encouraging
 - Respectful
 - Risk-aware
 - Community-centered
@@ -127,9 +141,12 @@ Supporting website colors may be used when needed for interaction and readabilit
 
 LFKShibari content should consistently reinforce:
 
-- Education
+- Education and shared learning
 - Consent
 - Connection
+- Inclusivity
+- Creativity
+- Community over competition
 - Mutual respect
 - Privacy
 - Accountability
