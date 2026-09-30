@@ -85,7 +85,8 @@ Supporting website colors may be used when needed for interaction and readabilit
 
 ## Typography
 
-- `Anton`: primary display font for `LFK`, large headings, and strong section titles
+- `Work Sans Ultra-Bold`: logo font for `LFK`
+- `Anton`: website display font for large headings and strong section titles
 - `Alex Brush`: script font for `Shibari` in the logo and branded decorative treatments
 - `Inter`: primary body and interface font for paragraphs, navigation, buttons, forms, and general website content
 
@@ -108,7 +109,7 @@ Supporting website colors may be used when needed for interaction and readabilit
 - Multi-line or stacked naming:
   - `LFK`
   - `Shibari`
-- `LFK` should use the strong block treatment associated with Anton when presented as a visual wordmark.
+- `LFK` should use Work Sans Ultra-Bold when presented as a visual wordmark.
 - `Shibari` should use Alex Brush when presented as part of the visual wordmark.
 - Written references in body copy should use the normal body font rather than recreating the logo typography inline.
 
