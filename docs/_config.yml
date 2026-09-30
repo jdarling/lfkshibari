@@ -1,0 +1,22 @@
+# GitHub Pages publishes this directory as the site root.
+title: LFKShibari
+description: >-
+  Lawrence, Kansas rope community centered on education, consent,
+  connection, and responsible practice.
+url: "https://jdarling.github.io"
+baseurl: "/lfkshibari"
+repository: jdarling/lfkshibari
+lang: en
+timezone: America/Chicago
+
+# Keep the existing HTML, CSS, and JavaScript design.
+theme: null
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: null
+
+# Documentation should not become a public page.
+exclude:
+  - README.md

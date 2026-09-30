@@ -28,7 +28,9 @@ The vetting section links to the existing Google Form, which opens in a new tab.
 
 ### GitHub Pages
 
-Push these files to a repository and enable Pages from the repository settings. The site has no build step.
+In the repository's Settings → Pages, select deployment from a branch and choose the `/docs` folder on that branch. GitHub Pages uses `docs/_config.yml`; the existing HTML, CSS, and JavaScript are published without a theme or layout.
+
+The configuration uses `https://jdarling.github.io/lfkshibari/`. If a custom domain is added, update `url` to that domain and set `baseurl` to `""`.
 
 ### GitLab Pages
 
