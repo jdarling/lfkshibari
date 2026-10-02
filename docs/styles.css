@@ -634,6 +634,16 @@ h3 {
   margin: .45rem 0;
 }
 
+.guide-content a {
+  color: var(--green);
+  text-underline-offset: .2em;
+}
+
+.guide-content a:hover,
+.guide-content a:focus-visible {
+  color: var(--black);
+}
+
 .guide-content ul {
   padding-left: 1.5rem;
 }
