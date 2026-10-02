@@ -2,6 +2,8 @@
 
 This document is a guide to what you can expect when you interact with me. It is a work in progress and may change as I learn and grow.
 
+Adapted with permission from SoaringCrane's [My Boundaries & Standards](https://fetlife.com/SoaringCrane/posts/14125789) at [https://fetlife.com/SoaringCrane/posts/14125789](https://fetlife.com/SoaringCrane/posts/14125789).
+
 It is intended to communicate how I approach rope, consent, communication, safety, boundaries, and the responsibility I take on when tying with someone.
 
 This is not a substitute for conversation. Every person, scene, and situation is different, and anything written here can be discussed, clarified, changed, or declined.
@@ -76,11 +78,11 @@ Consent to rope is not consent to sex or other intimate activity.
 
 Use this section for standards specific to you, such as sexual or romantic boundaries, hygiene expectations, substance use, photography preferences, venue preferences, or types of rope you do not do.
 
----
+____________________________________________________________
 
----
+____________________________________________________________
 
----
+____________________________________________________________
 
 ## Accountability
 
